@@ -1,4 +1,3 @@
-- 👋 Hi, I'm a Ph.D. student at IMAG Lab, Nanjing University of Science & Technology.
 - 👀 I’m interested in low-level vision problems.
 
 
